@@ -1,0 +1,9 @@
+faiss-cpu
+torch
+sentence-transformers
+transformers
+Pillow
+requests
+torchvision
+datasets
+numpy
